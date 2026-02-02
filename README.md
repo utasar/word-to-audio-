@@ -1,4 +1,4 @@
-# word-to-audio-
+
 Text-to-Speech
 README.md# Gemini Text-to-Speech Integration
 
@@ -304,6 +304,4 @@ The script uses Google TTS which supports multiple languages. Use the appropriat
 - Verify that your system has audio capabilities for playback
 - Check the log file (`tts_integration.log`) for detailed error information in the advanced version
 
-## License
 
-This project is licensed under the MIT License.
